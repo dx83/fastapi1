@@ -1,6 +1,5 @@
-# Auto detect text files and perform LF normalization
-* text=auto
 
-app/images/*.jpg
-app/images/*.png
+**/images/*.jpg
+**/images/*.png
 
+**/__pycache__/
