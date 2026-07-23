@@ -1,6 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-images/*.jpg
-images/*.png
+app/images/*.jpg
+app/images/*.png
 
