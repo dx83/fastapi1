@@ -29,3 +29,7 @@ Service 백그라운드(24시간)
 
 
 <br>
+
+# mqtt 테스트
+127.0.0.1:8000/mqtt/
+localhost:8000/mqtt/
